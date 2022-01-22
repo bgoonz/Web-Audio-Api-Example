@@ -1,5 +1,5 @@
 # webaudio-examples
-Code examples that accompany the MDN Web Audio documentation https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API
+
 
 ## Audio analyser
 The [audio-analyser](https://github.com/mdn/webaudio-examples/tree/master/audio-analyser) directory contains a very simple example showing a graphical visualization of an audio signal drawn with data taken from an [`AnalyserNode`](https://developer.mozilla.org/en-US/docs/Web/API/AnalyserNode) interface. [Run the demo live](http://mdn.github.io/webaudio-examples/audio-analyser/).
